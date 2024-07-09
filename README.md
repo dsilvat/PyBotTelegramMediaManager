@@ -25,7 +25,7 @@ COMO USAR
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/py-bot-telegram-media-manager.git
+https://github.com/dsilvat/PyBotTelegramMediaManager.git
 cd py-bot-telegram-media-manager
 
 Instale as dependências:

@@ -1,0 +1,15 @@
+# Arquivos gerados pelo sistema
+*.pyc
+__pycache__/
+
+# Diretório de ambiente virtual (se estiver usando venv ou virtualenv)
+venv/
+
+# Arquivos de configuração local
+config.py
+
+# Arquivos de log
+*.log
+
+# Diretório de mídia
+/media/
